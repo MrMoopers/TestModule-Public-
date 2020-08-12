@@ -9,7 +9,7 @@
     {
       "name": "TheSnarky",
       "email": "someone@somewhere.co.uk",
-      "url": "https://github.com/MrMoopers/TestModule"
+      "url": "https://github.com/MrMoopers/TestModule-Public-"
     }
   ],
   "scripts": [],
@@ -19,7 +19,7 @@
   "languages": [],
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.5.0",
-  "url": "https://github.com/MrMoopers/TestModule",
+  "url": "https://github.com/MrMoopers/TestModule-Public-",
   "manifest": "",
   "download": "",
   "license": "",
